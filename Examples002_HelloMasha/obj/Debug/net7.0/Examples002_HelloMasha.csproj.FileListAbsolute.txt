@@ -1,0 +1,15 @@
+C:\Users\nikit\OneDrive\Рабочий стол\Домашка\3 Знакомство с языками программирования\1 лекция С#\Exampples\Examples002_HelloMasha\bin\Debug\net7.0\Examples002_HelloMasha.exe
+C:\Users\nikit\OneDrive\Рабочий стол\Домашка\3 Знакомство с языками программирования\1 лекция С#\Exampples\Examples002_HelloMasha\bin\Debug\net7.0\Examples002_HelloMasha.deps.json
+C:\Users\nikit\OneDrive\Рабочий стол\Домашка\3 Знакомство с языками программирования\1 лекция С#\Exampples\Examples002_HelloMasha\bin\Debug\net7.0\Examples002_HelloMasha.runtimeconfig.json
+C:\Users\nikit\OneDrive\Рабочий стол\Домашка\3 Знакомство с языками программирования\1 лекция С#\Exampples\Examples002_HelloMasha\bin\Debug\net7.0\Examples002_HelloMasha.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Домашка\3 Знакомство с языками программирования\1 лекция С#\Exampples\Examples002_HelloMasha\bin\Debug\net7.0\Examples002_HelloMasha.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Домашка\3 Знакомство с языками программирования\1 лекция С#\Exampples\Examples002_HelloMasha\obj\Debug\net7.0\Examples002_HelloMasha.csproj.AssemblyReference.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Домашка\3 Знакомство с языками программирования\1 лекция С#\Exampples\Examples002_HelloMasha\obj\Debug\net7.0\Examples002_HelloMasha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\OneDrive\Рабочий стол\Домашка\3 Знакомство с языками программирования\1 лекция С#\Exampples\Examples002_HelloMasha\obj\Debug\net7.0\Examples002_HelloMasha.AssemblyInfoInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Домашка\3 Знакомство с языками программирования\1 лекция С#\Exampples\Examples002_HelloMasha\obj\Debug\net7.0\Examples002_HelloMasha.AssemblyInfo.cs
+C:\Users\nikit\OneDrive\Рабочий стол\Домашка\3 Знакомство с языками программирования\1 лекция С#\Exampples\Examples002_HelloMasha\obj\Debug\net7.0\Examples002_HelloMasha.csproj.CoreCompileInputs.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Домашка\3 Знакомство с языками программирования\1 лекция С#\Exampples\Examples002_HelloMasha\obj\Debug\net7.0\Examples002_HelloMasha.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Домашка\3 Знакомство с языками программирования\1 лекция С#\Exampples\Examples002_HelloMasha\obj\Debug\net7.0\refint\Examples002_HelloMasha.dll
+C:\Users\nikit\OneDrive\Рабочий стол\Домашка\3 Знакомство с языками программирования\1 лекция С#\Exampples\Examples002_HelloMasha\obj\Debug\net7.0\Examples002_HelloMasha.pdb
+C:\Users\nikit\OneDrive\Рабочий стол\Домашка\3 Знакомство с языками программирования\1 лекция С#\Exampples\Examples002_HelloMasha\obj\Debug\net7.0\Examples002_HelloMasha.genruntimeconfig.cache
+C:\Users\nikit\OneDrive\Рабочий стол\Домашка\3 Знакомство с языками программирования\1 лекция С#\Exampples\Examples002_HelloMasha\obj\Debug\net7.0\ref\Examples002_HelloMasha.dll
